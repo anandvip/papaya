@@ -20,7 +20,7 @@ filter;
 //Date footer
 
  datum    = new Date('15 January 2019'); //The day thought was captured
-datumN    = new Date('29 October 2019');//Latest Edit
+datumN    = new Date('08 November 2019');//Latest Edit
 
 getEle    = (id) => document.getElementById(id);
  query    = (selector) => document.querySelectorAll(selector);
